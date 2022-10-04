@@ -1,1 +1,1 @@
-I am a Mechanical engineer who loves software engineering
+I am learning software engineering
